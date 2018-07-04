@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DNI">DNI:</string>
+    <string name="name">Nombre y Apellidos:</string>
+    <string name="city">Ciudad:</string>
+    <string name="number">Numero:</string>
+    <!-- Botones -->
+    <string name="save">Guardar</string>
+    <string name="consultDNI">Consultar DNI</string>
+    <string name="delete">Borrar</string>
+    <string name="dataModification">Modificación de datos</string>
+</resources>

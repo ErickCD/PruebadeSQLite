@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba de SQLite</string>
+    <string name="DNI">DNI:</string>
+    <string name="name">Name and surname:</string>
+    <string name="city">City:</string>
+    <string name="number">Number:</string>
+    <!-- Buttons -->
+    <string name="save">Save</string>
+    <string name="consultDNI">Consult DNI</string>
+    <string name="delete">Delete</string>
+    <string name="dataModification">Data modification</string>
+</resources>
